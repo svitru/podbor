@@ -8,4 +8,6 @@
   - name: Debug
     debug:
       msg: Просто дебаг
+  - name: Ping
+    ping:
 
