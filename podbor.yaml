@@ -1,6 +1,6 @@
 ---
 
-- hosts: stand
+- hosts: all
   become: yes
   gather_facts: no
 
